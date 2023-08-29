@@ -1,3 +1,3 @@
 # hello-world
 important stuff
-slu
+Slu
